@@ -1,3 +1,5 @@
+(Below is the original intrsructions for the course project. For my MD file with the code and answers, please see PA1_template.md)
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
