@@ -1,12 +1,14 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Reproducible Research - Project 1"
+author: "Tom Snir"
+date: "June 7, 2016"
 output: 
-html_document:
-keep_md: true
+  html_document:
+    keep_md: true
 ---
 
 ### Introduction:
-This MD file will include the code and results to complete Coursera's **Reproducible Research** first course assignment. The code assumes that the ggplot library is installed, and that the ziped file of the data is located in the working directory.
+This file will include the code and results to complete Coursera's **Reproducible Research** first course assignment. The code assumes that the ggplot library is installed, and that the ziped file of the data is located in the working directory.
 
 
 ## Loading and preprocessing the data
