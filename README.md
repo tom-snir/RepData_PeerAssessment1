@@ -1,4 +1,4 @@
-(Below is the original intrsructions for the course project. For my MD file with the code and answers, please see PA1_template.md)
+(Below are the original instructions for the course project. For my MD file with the code and answers, please see PA1_template.md)
 
 ## Introduction
 
